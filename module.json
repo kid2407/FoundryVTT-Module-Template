@@ -7,6 +7,11 @@
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
+  "compatibility": {
+    "minimum": 9,
+    "verified": 10,
+    "maximum": 10
+  },
   "authors": [
     {
       "name": "Tobias Franz",
